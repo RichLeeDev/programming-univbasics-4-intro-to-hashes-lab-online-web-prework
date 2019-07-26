@@ -3,6 +3,7 @@ def new_hash
 end
 
 def my_hash
+  test_hash = {}
   test_hash[gender:] = "male"
 end
 
