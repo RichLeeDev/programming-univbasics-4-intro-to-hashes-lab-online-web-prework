@@ -1,5 +1,5 @@
 def new_hash
-  test_hash = {}
+  test_hash = {food: "mac and cheese", car: "s2000"}
 end
 
 def my_hash
