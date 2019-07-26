@@ -2,8 +2,8 @@ def new_hash
   test_hash = {food: "mac and cheese", car: "s2000"}
 end
 
-def my_hash(hashkey, hashvalue)
-  test_hash[hashkey] = hashvalue
+def my_hash
+  test_hash[gender:] = "male"
 end
 
 def pioneer
